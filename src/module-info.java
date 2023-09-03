@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yashu
+ *
+ */
+module abstractmethod {
+}
